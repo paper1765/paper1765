@@ -13,7 +13,7 @@ An implementation code for NeurIPS-2022 paper ID "1765".
 A new Spatial-Temporal Deepfake Detection and Localization (ST-DDL) network with the newly proposed Anchor-Mesh Motion (AMM) algorithm and Fusion Attention (FA) module. In addition, a new public forgery dataset, **ManualFake**, with over 16,000 videos, including the new properties such as the generation of commercial software, the transmission of online social networks, namely the Facebook (Post), Facebook (Messenger), Wechat (Mobile), Wechat (PC), YouTube, Whatsapp, and Tiktok.
 
 <p align='center'>  
-  <img src='https://github.com/paper1765/paper1765/blob/main/imgs/framework.jpg?raw=true' width='870'/>
+  <img src='https://github.com/paper1765/paper1765/blob/master/imgs/framework.jpg?raw=true' width='870'/>
 </p>
 <p align='center'>  
   <em>The framework of ST-DDL.</em>
@@ -37,7 +37,7 @@ Then the model will detect the videos in the `data/ManualFake_preview/` and save
 Note: The pre-trained weight can be downloaded from [here](https://drive.google.com/drive/folders/1vzvLCWBVR-iv6_Y9fetb5rvG_PD_jq56?usp=sharing).
 
 <p align='center'>  
-  <img src='https://github.com/paper1765/paper1765/blob/main/imgs/result.jpg?raw=true' width='480'/>
+  <img src='https://github.com/paper1765/paper1765/blob/master/imgs/result.jpg?raw=true' width='480'/>
 </p>
 <p align='center'>  
   <em>Demo results of localization.</em>
@@ -48,7 +48,7 @@ Note: The pre-trained weight can be downloaded from [here](https://drive.google.
 We construct a new Deepfake dataset, namely **ManualFake**, that innovatively features commercial Deepfake software, online social network scenarios, and multi-source videos (e.g., online interviews). The full dataset can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1dT3A69sLi592RwAw_XfvOmLexNRX-7mf?usp=sharing). **Please do NOT share as relevant license is still in production. Thanks!**
 
 <p align='center'>  
-  <img src='https://github.com/paper1765/paper1765/blob/main/imgs/dataset.jpg?raw=true' width='480'/>
+  <img src='https://github.com/paper1765/paper1765/blob/master/imgs/dataset.jpg?raw=true' width='480'/>
 </p>
 <p align='center'>  
   <em>The overview of ManualFake.</em>
